@@ -1,6 +1,0 @@
-standing
-sitting
-lying_sternal
-lying_lateral
-drinking
-eating
