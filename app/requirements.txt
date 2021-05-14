@@ -1,0 +1,9 @@
+opencv-python==4.1.1.26
+numpy==1.19.5
+pandas==1.1.5
+Pillow==8.2.0
+tqdm==4.56.0
+palettable==3.3.0
+components==1.2.8
+streamlit==0.80.0
+utils==1.0.1
