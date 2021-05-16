@@ -1,4 +1,5 @@
-opencv_contrib_python==4.1.2.30
+opencv-python==4.1.1.26
+opencv-contrib-python==3.4.13.47
 numpy==1.19.5
 pandas==1.1.5
 Pillow==8.2.0
